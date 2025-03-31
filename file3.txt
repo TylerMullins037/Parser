@@ -1,0 +1,7 @@
+A = 6; 
+read B; 
+X = -2; 
+if (A + B > 10)
+   X = A + 2;
+write A + B - X; 
+ $$ 
